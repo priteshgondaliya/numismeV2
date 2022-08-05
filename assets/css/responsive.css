@@ -1,0 +1,463 @@
+@media screen and (max-width:1400px) {
+	
+	.banner_section .banner_text h1 {
+		font-size: 40px;
+	}
+	.banner_section .banner_text h1 span {
+		font-size: 30px;
+	}
+	.banner_section .banner_text p {
+		font-size: 24px;
+	}
+	.section_title h2 {
+		font-size: 40px;
+	}
+	.section_title p {
+		font-size: 24px;
+	}
+	.get_start_section .start_panel .start_box h3 {
+		font-size: 18px;
+	}
+
+}
+
+
+
+@media all and (max-width: 1200px){
+	.menu ul li a, .app_content p, .titles p{
+		font-size: 18px;
+	}
+	.left_crypto_items h1, .titles h1{
+		font-size: 56px;
+	}
+	.left_crypto_items h3, .app_content h2, .phase_discription h3{
+		font-size: 32px;
+	}
+	.coming_soon_area {
+		padding-top: 260px;
+	}
+	.phase_title h1{
+		font-size: 36px;
+	}
+	.phase_discription ul li, .copy_right p{
+		font-size: 16px;
+	}
+	.phase_img, .phase_img img {
+		width: 130px;
+		height: 130px;
+	}
+
+
+
+	.banner_section .banner_text h1 {
+		font-size: 36px;
+	}
+	.banner_section .banner_text h1 span {
+		font-size: 28px;
+	}
+	.banner_section .banner_text p {
+		font-size: 20px;
+	}
+	.section_title h2 {
+		font-size: 36px;
+	}
+	.section_title p {
+		font-size: 18px;
+	}
+	.get_start_section .start_panel .start_box .icon img {
+		height: 200px;
+	}
+	.get_start_section .start_panel .start_box h3 {
+		font-size: 16px;
+	}
+	.bull_section .bull_panel .bull_block .panel_text h3 {
+		font-size: 26px;
+	}
+	.process_section .process_panel .process_box h3 , 
+	.benefits_section .benefits_box h3 , 
+	.bull_section .bull_panel .bull_block .panel_text p{
+		font-size: 18px;
+	}
+	.process_section .process_panel .process_box .icon img {
+		height: 190px;
+	}
+
+}
+
+@media all and (max-width: 1199px){
+	.bar{
+		display: block;
+	}
+	.col-xl-9.show_menu {
+		position: fixed;
+		top: 0;
+		left: -400px;
+		width: 400px;
+		height: 100vh;
+		background: #f8ca02;
+		padding: 40px 40px;
+		transition: 0.5s;
+	}
+	.col-xl-9.show_menu.show{
+		left: 0;
+		box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.1);
+	}
+
+	.header_area .col-xl-9.show_menu > .menu > ul {
+		flex-direction: column;
+		align-items: flex-start;
+		justify-content: flex-start;
+		margin-left: 0;
+		margin-right: 0;
+	}
+	.header_area .col-xl-9.show_menu > .menu > ul li{
+		padding-left: 0;
+		padding-right: 0;
+		width: 100%;
+	}
+	.header_area .col-xl-9.show_menu > .menu > ul li > a{
+		display: block;
+		padding: 15px 0px;
+		border-bottom: 1px solid #000;
+	}
+	.header_area .col-xl-9.show_menu > .menu > ul li:first-child > a{
+		border-top: 1px solid #000;
+	}
+
+	.header_area .col-xl-9.show_menu > .menu > ul li:last-child > a{
+		border: none;
+		text-align: center;
+		margin-top: 30px;
+	}
+
+	.crypto_area::after {
+		bottom: -150px;
+	}
+	.left_crypto_items {
+		margin-top: 0;
+	}
+	.right_crypto_items {
+		text-align: left;
+		margin-top: 40px;
+	}
+	.right_crypto_items img {
+		width: 500px;
+	}
+
+	.app_images img {
+		width: 400px;
+	}
+	.left_crypto_items h3, .app_content h2, .phase_discription h3 {
+		font-size: 28px;
+	}
+	.menu ul li a, .app_content p, .titles p {
+		font-size: 16px;
+	}
+
+}
+
+
+@media all and (max-width: 991px) {
+	.app_images, .app_content{
+		text-align: center !important;
+	}
+
+	.row.order_items > .col-lg-6:last-child{
+		order: -1;
+	}
+	.crypto_area {
+		padding-top: 150px;
+		padding-bottom: 80px;
+	}
+	.left_crypto_items h1, .titles h1 {
+		font-size: 48px;
+	}
+	.crypto_area::after {
+		bottom: -180px;
+	}
+	.pro_area {
+		padding: 100px 0px;
+	}
+	.borrow_area{
+		padding-top: 100px;
+	}
+	.coming_soon_area {
+		padding-top: 280px;
+		padding-bottom: 80px;
+	}
+	.left_crypto_items, .right_crypto_items{
+		text-align: center;
+	}
+
+
+	.banner_section .banner_text h1 {
+		font-size: 28px;
+	}
+	.banner_section .banner_text h1 span {
+		font-size: 22px;
+	}
+	.banner_section .banner_text p {
+		font-size: 16px;
+	}
+	.section_title h2 {
+		font-size: 26px;
+	}
+	.section_title p {
+		font-size: 16px;
+	}
+	.get_start_section .start_panel .start_box .icon img {
+		height: 200px;
+	}
+	.get_start_section .start_panel .start_box h3 {
+		font-size: 16px;
+	}
+	.bull_section .bull_panel .bull_block .panel_text h3 {
+		font-size: 26px;
+	}
+	.process_section .process_panel .process_box h3 , 
+	.benefits_section .benefits_box h3 , 
+	.bull_section .bull_panel .bull_block .panel_text p{
+		font-size: 16px;
+	}
+	.process_section .process_panel .process_box .icon img {
+		height: 190px;
+	}
+
+	.get_start_section , 
+	.support_section , 
+	.benefits_section	{
+		padding: 60px 0;
+	}
+	.section_title {
+		margin-bottom: 40px;
+	}
+	.get_start_section .start_panel , 
+	.process_section .process_panel {
+		flex-wrap: wrap;
+	}
+	.get_start_section .start_panel .start_box , 
+	.process_section .process_panel .process_box {
+		width: 50%;
+		margin-bottom: 50px;
+	}
+	.support_section .support_box h3 {
+		font-size: 18px;
+	}
+	.support_section .support_box , 
+	.benefits_section .benefits_box {
+		width: 30%;
+	}
+	.support_section .support_box .text p {
+		font-size: 16px;
+		margin-top: 30px;
+	}
+	.benefits_section .join_now .btn {
+		padding: 14px 50px;
+	}
+	.process_section {
+		padding-bottom: 50px;
+	}
+	
+
+}
+
+
+@media all and (max-width: 767px) {
+
+
+	.left_crypto_items h1, .titles h1 {
+		font-size: 40px;
+	}
+	.right_crypto_items img {
+		width: 400px;
+	}
+	.crypto_area::after {
+		bottom: -240px;
+	}
+	.app_images img {
+		width: 360px;
+	}
+	.pro_area {
+		background-position: 0% 100%;
+	}
+	.primary_button{
+		font-size: 16px;
+	}
+	.borrow_bottom_box.titles h1, .pro_bottom_box.titles h1{
+		font-size: 36px;
+	}
+	.pro_bottom_box.titles, .borrow_bottom_box.titles{
+		padding-top: 80px;
+	}
+	.phase_discription h3 br, .titles p{
+		display: none;
+	}
+	.coming_soon_area .titles {
+		padding-bottom: 40px;
+	}
+	.phase_img, .phase_img img {
+		width: 100px;
+		height: 100px;
+	}
+	.coming_soon_area {
+		padding-top: 360px;
+	}
+	.phase_img {
+		margin-top: 25px;
+		margin-bottom: 25px;
+	}
+	.phase_discription ul {
+		padding-top: 20px;
+	}
+	.footer_box > .menu ul{
+		flex-direction: column;
+		align-items: flex-start;
+		justify-content: flex-start;
+	}
+	.footer_box > .menu ul li{
+		padding: 0px;
+		width: 100%;
+	}
+	.footer_box > .menu ul li a{
+		display: block;
+		padding: 20px 0px;
+	}
+	.footer_box > .menu ul li a{
+		border-top: 1px solid #FFF;
+	}
+	.footer_box > .menu ul li:last-child a{
+		border-bottom: 1px solid #FFFFFF;
+	}
+	.social ul li a {
+		width: 45px;
+		height: 45px;
+	}
+	.social ul li a img {
+		width: 20px;
+		height: 20px;
+	}
+	.copy_right p {
+		font-size: 14px;
+	}
+
+
+
+
+
+	.banner_section {
+		padding: 50px 0;
+		text-align: center;
+	}
+	.bull_section .bull_panel .bull_block {
+		margin-bottom: 50px;
+	}
+	.bull_panel {
+		text-align: center;
+	}
+	.section_title h2 {
+		font-size: 20px;
+	}
+	.get_start_section .start_panel .start_box .icon img {
+		height: 120px;
+	}
+	.support_section .support_panel , 
+	.benefits_section .benefits_panel {
+		flex-wrap: wrap;
+		padding: 0 15px;
+	}
+	.support_section .support_box, .benefits_section .benefits_box {
+		width: 100%;
+		margin-bottom: 20px;
+	}
+	.support_section .support_box .text p {
+		font-size: 14px;
+		margin-top: 15px;
+	}
+	.support_section .support_box .icon {
+		margin-bottom: 10px;
+	}
+	.bull_section .bull_panel .bull_block , 
+	.bull_section .bull_panel .bull_block.revearce_block {
+		flex-direction: column;
+	}
+	.bull_section .bull_panel .bull_block .panel_img {
+		width: 100%;
+	}
+	.bull_section .bull_panel .bull_block .panel_text {
+		width: 100%;
+		margin-top: 20px;
+	}
+	.get_start_section .start_panel .start_box, .process_section .process_panel .process_box {
+		width: 48%;
+	}
+	.process_section .process_panel .process_box .icon img {
+		height: 120px;
+	}
+	.process_section .process_panel .process_box .icon {
+		margin-bottom: 15px;
+	}
+	.bull_section .section_title {
+		margin-bottom: 50px;
+	}
+	.bull_section {
+		padding-top: 50px;
+	}
+	.benefits_section .join_now .btn {
+		font-size: 18px;
+	}
+
+
+}
+
+@media all and (max-width: 575px) {
+	.col-xl-9.show_menu {
+		left: -300px;
+		width: 300px;
+		padding: 40px 20px;
+	}
+	.app_content p br{
+		display: none;
+	}
+	.left_crypto_items h1, .titles h1 {
+		font-size: 34px;
+	}
+	.left_crypto_items h3, .app_content h2, .phase_discription h3 {
+		font-size: 24px;
+	}
+	.menu ul li a, .app_content p, .titles p, .phase_discription ul li, .primary_button{
+		font-size: 15px;
+	}
+	.app_content p{
+		max-width: 450px;
+		width: 100%;
+		margin: 0 auto;
+	}
+	.app_images img, .right_crypto_items img{
+		width: 80%;
+	}
+	.logo img{
+		width: 140px;
+	}
+	.coming_soon_area{
+		padding-bottom: 60px;
+	}
+	.footer_area{
+		padding-top: 40px;
+	}
+	.social ul li {
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	.app_content, .app_images {
+		margin-top: 60px;
+	}
+	.borrow_bottom_box.titles h1, .pro_bottom_box.titles h1 {
+		font-size: 28px;
+	}
+}
+
+@media all and (max-width: 550px) {
+	.left_crypto_items h1, .titles h1 {
+		font-size: 32px;
+	}
+}

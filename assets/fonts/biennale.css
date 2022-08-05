@@ -1,0 +1,198 @@
+@font-face {
+    font-family: 'FONTSPRING DEMO - Biennale';
+    src: url('FONTSPRINGDEMO-BiennaleBlackRegular.woff2') format('woff2'),
+    url('FONTSPRINGDEMO-BiennaleBlackRegular.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Biennale Bold It';
+    src: url('FONTSPRINGDEMO-BiennaleBoldItRegular.woff2') format('woff2'),
+    url('FONTSPRINGDEMO-BiennaleBoldItRegular.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Biennale';
+    src: url('FONTSPRINGDEMO-BiennaleLightRegular.woff2') format('woff2'),
+    url('FONTSPRINGDEMO-BiennaleLightRegular.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Biennale Light It';
+    src: url('FONTSPRINGDEMO-BiennaleLightItRegular.woff2') format('woff2'),
+    url('FONTSPRINGDEMO-BiennaleLightItRegular.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Biennale Black It';
+    src: url('FONTSPRINGDEMO-BiennaleBlackItRegular.woff2') format('woff2'),
+    url('FONTSPRINGDEMO-BiennaleBlackItRegular.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Biennale';
+    src: url('FONTSPRINGDEMO-BiennaleMediumRegular.woff2') format('woff2'),
+    url('FONTSPRINGDEMO-BiennaleMediumRegular.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Biennale Heavy It';
+    src: url('FONTSPRINGDEMO-BiennaleHeavyItRegular.woff2') format('woff2'),
+    url('FONTSPRINGDEMO-BiennaleHeavyItRegular.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Biennale Book It';
+    src: url('FONTSPRINGDEMO-BiennaleBookItRegular.woff2') format('woff2'),
+    url('FONTSPRINGDEMO-BiennaleBookItRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Biennale Medium It';
+    src: url('FONTSPRINGDEMO-BiennaleMediumItRegular.woff2') format('woff2'),
+    url('FONTSPRINGDEMO-BiennaleMediumItRegular.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Biennale';
+    src: url('FONTSPRINGDEMO-BiennaleHeavyRegular.woff2') format('woff2'),
+    url('FONTSPRINGDEMO-BiennaleHeavyRegular.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Biennale Hair';
+    src: url('FONTSPRINGDEMO-BiennaleHairRegular.woff2') format('woff2'),
+    url('FONTSPRINGDEMO-BiennaleHairRegular.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Biennale Hair It';
+    src: url('FONTSPRINGDEMO-BiennaleHairItRegular.woff2') format('woff2'),
+    url('FONTSPRINGDEMO-BiennaleHairItRegular.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Biennale';
+    src: url('FONTSPRINGDEMO-BiennaleRegular.woff2') format('woff2'),
+    url('FONTSPRINGDEMO-BiennaleRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Biennale';
+    src: url('FONTSPRINGDEMO-BiennaleBoldRegular.woff2') format('woff2'),
+    url('FONTSPRINGDEMO-BiennaleBoldRegular.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Biennale Book';
+    src: url('FONTSPRINGDEMO-BiennaleBookRegular.woff2') format('woff2'),
+    url('FONTSPRINGDEMO-BiennaleBookRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Biennale Ultra';
+    src: url('FONTSPRINGDEMO-BiennaleUltraLightRegular.woff2') format('woff2'),
+    url('FONTSPRINGDEMO-BiennaleUltraLightRegular.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Biennale';
+    src: url('FONTSPRINGDEMO-BiennaleSemiBoldRegular.woff2') format('woff2'),
+    url('FONTSPRINGDEMO-BiennaleSemiBoldRegular.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Biennale UltraLight It';
+    src: url('FONTSPRINGDEMO-BiennaleUltraLightItRegular.woff2') format('woff2'),
+    url('FONTSPRINGDEMO-BiennaleUltraLightItRegular.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Biennale It';
+    src: url('FONTSPRINGDEMO-BiennaleItRegular.woff2') format('woff2'),
+    url('FONTSPRINGDEMO-BiennaleItRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Biennale';
+    src: url('FONTSPRINGDEMO-BiennaleThinRegular.woff2') format('woff2'),
+    url('FONTSPRINGDEMO-BiennaleThinRegular.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Biennale Thin It';
+    src: url('FONTSPRINGDEMO-BiennaleThinItRegular.woff2') format('woff2'),
+    url('FONTSPRINGDEMO-BiennaleThinItRegular.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Biennale SemiBold It';
+    src: url('FONTSPRINGDEMO-BiennaleSemiBoldItRegular.woff2') format('woff2'),
+    url('FONTSPRINGDEMO-BiennaleSemiBoldItRegular.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
